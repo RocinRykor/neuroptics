@@ -1,3 +1,1 @@
-pub struct Scan {
-    
-}
+pub struct Scan {}

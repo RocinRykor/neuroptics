@@ -1,7 +1,7 @@
 pub mod scan;
 
-use std::process::Command;
 pub use scan::Scan;
+use std::process::Command;
 
 struct Cli {
     command: Command,

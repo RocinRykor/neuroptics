@@ -1,7 +1,7 @@
+use crate::Sample;
+use cortex::Format;
 use std::path::PathBuf;
 use std::time::SystemTime;
-use cortex::Format;
-use crate::Sample;
 
 pub struct ScanReport {
     pub path: PathBuf,

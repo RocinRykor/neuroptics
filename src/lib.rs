@@ -1,6 +1,6 @@
 pub mod commands;
-pub mod tools;
 pub mod reports;
+pub mod tools;
 
 pub use commands::scan;
 pub use reports::ScanReport;
